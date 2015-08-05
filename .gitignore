@@ -1,0 +1,9 @@
+#Compiled java files
+build/
+*.class
+
+#Eclipse project specific files
+.settings/
+
+#Maven compilation result
+target/
