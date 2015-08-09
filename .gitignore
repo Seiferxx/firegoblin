@@ -4,6 +4,8 @@ build/
 
 #Eclipse project specific files
 .settings/
+.classpath
+.project
 
 #Maven compilation result
 target/
